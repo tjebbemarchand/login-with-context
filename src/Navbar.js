@@ -25,12 +25,15 @@ class Navbar extends Component {
                         <Switch />
                         <div className={classes.grow} />
                         <div className={classes.search}>
-                            <div className={classes.SearchIcon}>
+                            <div className={classes.searchIcon}>
                                 <SearchIcon />
                             </div>
                             <InputBase
                                 placeholder="Search..."
-                                classes={{ root: classes.inputRoot, input: classes.inputInput }}
+                                classes={{
+                                    root: classes.inputRoot,
+                                    input: classes.inputInput
+                                }}
                             />
                         </div>
                     </Toolbar>
