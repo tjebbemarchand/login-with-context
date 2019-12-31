@@ -6,7 +6,7 @@ class ThemeProvider extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            isDarkMode: true
+            isDarkMode: false
         };
         this.toggleTheme = this.toggleTheme.bind(this);
     }
