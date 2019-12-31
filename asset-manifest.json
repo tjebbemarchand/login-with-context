@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/login-with-context/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/login-with-context/static/js/main.ed09a5cb.chunk.js",
+    "main.js.map": "/login-with-context/static/js/main.ed09a5cb.chunk.js.map",
+    "runtime-main.js": "/login-with-context/static/js/runtime-main.3ff3e65d.js",
+    "runtime-main.js.map": "/login-with-context/static/js/runtime-main.3ff3e65d.js.map",
+    "static/js/2.efcd7c4f.chunk.js": "/login-with-context/static/js/2.efcd7c4f.chunk.js",
+    "static/js/2.efcd7c4f.chunk.js.map": "/login-with-context/static/js/2.efcd7c4f.chunk.js.map",
+    "index.html": "/login-with-context/index.html",
+    "precache-manifest.50d72d2b075e2c21e918b33dad61a07d.js": "/login-with-context/precache-manifest.50d72d2b075e2c21e918b33dad61a07d.js",
+    "service-worker.js": "/login-with-context/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/login-with-context/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.efcd7c4f.chunk.js.LICENSE": "/login-with-context/static/js/2.efcd7c4f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ff3e65d.js",
+    "static/js/2.efcd7c4f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ed09a5cb.chunk.js"
+  ]
+}
